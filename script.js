@@ -5,7 +5,7 @@ function firstChar(text) {
 			return text[i];
 		}
 	}
-	return " ";
+	return text;
 }
 // Do not change the code below
 const text = prompt("Enter text:");
